@@ -12,4 +12,4 @@ Find face on running camera using haar cascade frontal face data
 ## Run the program
 *Install opencv
 *Download haarcascade_frontalface_default.xml
-*
+*Run project 2(face detection).py 
