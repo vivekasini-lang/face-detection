@@ -2,3 +2,11 @@
 Detects real time face using haar cascade training data and opencv
 ## Project description
 Find face on running camera using haar cascade frontal face data 
+## Features
+*Detects face using training data
+*shows bounding recttangle on face
+*It can detect more than one face
+## Technologies used
+*Opencv
+*Haarcascade frontal face xml file
+##
