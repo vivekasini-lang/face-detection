@@ -9,4 +9,7 @@ Find face on running camera using haar cascade frontal face data
 ## Technologies used
 *Opencv
 *Haarcascade frontal face xml file
-##
+## Run the program
+*Install opencv
+*Download haarcascade_frontalface_default.xml
+*
